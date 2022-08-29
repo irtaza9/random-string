@@ -1,0 +1,22 @@
+{
+  "name": "random-string-adv",
+  "version": "1.0.0",
+  "description": "Generate strong random string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irtaza9/random-string.git"
+  },
+  "keywords": [
+    "Random-string"
+  ],
+  "author": "Irtaza Hussain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irtaza9/random-string/issues"
+  },
+  "homepage": "https://github.com/irtaza9/random-string#readme"
+}
